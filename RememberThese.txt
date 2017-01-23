@@ -1,0 +1,33 @@
+/*
+string-array of characters
+bool-true/false (1/0)
+char-character
+int-numbers, no decimals
+double-decimals
+array-list of variables
+vector-array that you can add onto forever
+
+string example1="lol"
+bool example2=True
+char example3='h'
+int example4=1
+double example5=1.5
+
+int examplearray[5][5];
+examplearray[1][2]=3;
+
+BOOLEAN EXPRESSIONS
+== is equal to
+!= is not equal to
+< less than
+> greater than
+<= less than or equal to
+>= less than or equal to
+
+if(condition) 
+{
+	Do this
+} else if(condition2) {
+	Do this
+}
+*/
